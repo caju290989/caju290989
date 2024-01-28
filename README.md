@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @caju290989
+- 👋 Hi, I’m Kimmmm, and I am a designer.
 - 👀 I’m interested in Python,HTML,CSS,Javascript
 - 🌱 I’m currently learning HTML,CSS,Javascript
 
